@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohan Singh</h1>
 <h3 align="center">A passionate student with frontend skills and knowledge of cloud computing.</h3>
 
-- 🔭 I’m currently working on **RS services**
+- 🔭 I’m currently working on ****
 
 - 🌱 I’m currently learning **Wordpress and Cloud Computing**
 
