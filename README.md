@@ -3,7 +3,7 @@
 
 - 🔭 Aspiring Data Analyst 
 
-- 🌱 I’m currently learning **Wordpress and Cloud Computing**
+- 🌱 I’m currently learning **Data Analytics and Insights**
 
 - 📫 How to reach me **rs8517747@gmail.com**
 
