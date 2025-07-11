@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan Singh</h1>
-<h3 align="center">A passionate student with frontend skills and knowledge of cloud computing.</h3>
+<h3 align="center"> Aspiring Data Analyst skilled in Excel, Power Bi, SQL and Python.</h3>
 
 - 🔭 Aspiring Data Analyst 
 
